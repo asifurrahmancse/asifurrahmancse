@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @asifurrahmancse
-- 👀 I’m interested in java Programing Language, js, MYSql, HTML/CSS, Wordpress
-- 🌱 I’m currently learning springboot, react framework
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🌱 Current Focus - Improve my programing skills
 
-<!---
-asifurrahmancse/asifurrahmancse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💬 Technologies I'm Enthusiastic About - Java, Spring Boot, JavaScript, Flutter, Database
+
+📫 How to Reach Me - asifurrahmancmt@gmail.com
+
+⚡ Fun Fact - I have a great sense of humor!
+
+Connect with me:
+
+Programming Languages:
+java logo  javascript logo  typescript logo  python logo  dart logo
+Tools & Frameworks:
+spring   flutter   apachekafka  redis  docker gitlab  kubernetes  linux logo  grafana swagger, Talend
+Databases:
+microsoftsqlserver logo  oracle logo  mysql logo  
